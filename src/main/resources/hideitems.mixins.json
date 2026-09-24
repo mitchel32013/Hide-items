@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.example.hideitems.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityRenderManagerMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "key.hideitems.toggle": "Toggle Dropped Item Rendering",
+  "key.category.hideitems.main": "Hide Dropped Items",
+  "message.hideitems.hidden": "Dropped items: hidden",
+  "message.hideitems.shown": "Dropped items: visible"
+}
